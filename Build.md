@@ -1,6 +1,6 @@
-# How to build
+# ビルド方法
 
-## For developers
+## 開発者向け
 
 ```
 make build
