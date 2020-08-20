@@ -1,3 +1,3 @@
 # github_project_sandbox
 
-- [spec](./spec.md)
+- [仕様書](./spec.md)
