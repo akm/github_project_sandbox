@@ -1,11 +1,11 @@
 .PHONY: build
 build:
-	@echo "build running...." && \
+	@echo "Build running...." && \
 	sleep 1 && \
-	echo "build complete!"
+	echo "Build complete!"
 
 .PHONY: test
 test:
-	@echo "test running..." && \
+	@echo "Test running..." && \
 	sleep 1 && \
-	echo "test passed"
+	echo "Test passed"
