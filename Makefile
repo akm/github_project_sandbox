@@ -8,4 +8,4 @@ build:
 test:
 	@echo "Test running..." && \
 	sleep 1 && \
-	echo "Test passed"
+	echo "Test passed!"
