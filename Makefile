@@ -6,6 +6,6 @@ build:
 
 .PHONY: test
 test:
-	@echo "test starting..." && \
-	sleep 2 && \
+	@echo "test running..." && \
+	sleep 3 && \
 	echo "test passed"
